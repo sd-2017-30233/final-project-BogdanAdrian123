@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<football>
+	
+	
+<ticket id="1">
+          <match>Real-Barca</match>
+          <data>08-05-2017</data>
+          <category>VIP</category>
+          <quantity>2000</quantity>
+          <price>500</price>
+     </ticket>
+     
+     <ticket id="2">
+          <match>Steaua-Dinamo</match>
+          <data>18-01-2017</data>
+          <category>Peluza</category>
+          <quantity>2500</quantity>
+          <price>100</price>
+     </ticket>
+     
+     <ticket id="3">
+          <match>Bayern-Borusia</match>
+          <data>10-11-2017</data>
+          <category>Tribuna</category>
+          <quantity>1000</quantity>
+          <price>1500</price>
+     </ticket>
+</football>

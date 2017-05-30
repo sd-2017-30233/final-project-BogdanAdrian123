@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<footbal>
+	<user id="1">
+		<username>milas</username>
+		<password>bogdan</password>
+		<type>administrator</type>
+	</user>
+	<user id="2">
+		<username>adrian</username>
+		<password>adrian</password>
+		<type>looker</type>
+	</user>
+
+
+
+<user id="1">
+          <username>abc</username>
+          <password>abc</password>
+          <type>looker</type>
+     </user>
+</footbal>

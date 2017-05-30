@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<football>
+	<ticket id="1">
+		<match>Steaua-Chelsea</match>
+		<data>12-05-2012</data>
+		<category>VIP</category>
+		<copy_numbers>5</copy_numbers>
+		<price>200</price>
+		<total_price>1000</total_price>
+	</ticket>
+<ticket id="250">
+          <match>Real-Barca</match>
+          <data>08-05-2017</data>
+          <category>VIP</category>
+          <copy_numbers>50</copy_numbers>
+          <price>500</price>
+          <total_price>25000</total_price>
+     </ticket>
+<ticket id="250">
+          <match>Real-Barca</match>
+          <data>08-05-2017</data>
+          <category>VIP</category>
+          <copy_numbers>50</copy_numbers>
+          <price>500</price>
+          <total_price>25000</total_price>
+     </ticket>
+</football>
